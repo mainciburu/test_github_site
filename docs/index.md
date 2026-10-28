@@ -1,6 +1,4 @@
 ---
-layout: default
-title: null
 ---
 
 # Main title
