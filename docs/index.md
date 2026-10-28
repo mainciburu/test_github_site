@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test GitHub page
+title: null
 ---
 
 # Main title
